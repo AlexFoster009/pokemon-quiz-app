@@ -1,0 +1,30 @@
+
+
+
+.content {display: block; margin: 0 auto; width: 500px;}
+.content h2 {text-align: center;}
+
+#question-wrapper {background-color: #ffa005; width: 100%; padding: 15px; border-radius: 5px; border: 2px dashed black; width: 400px;
+
+	margin: 0 auto;
+	font-family: sans-serif;
+	color: #EBEAE8;
+	font-size: 25px;
+	}
+
+
+.answer {padding-left: 5px;}
+
+#retry_button { display: none;}
+
+#fact_holder {
+	display: inline-block;
+	
+	font-size: 30px;
+	text-align:center;
+	color: #360000;
+	width: 450px;
+	vertical-align:top;
+	margin-left: 30px;
+	margin-top: 70px;
+}
